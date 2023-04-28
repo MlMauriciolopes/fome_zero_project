@@ -23,14 +23,12 @@ A Visão de Cidades:
     3. Restaurantes com média de avaliação abaixo de 2.5 estrelas.
     4. Top cidades com restaurantes com tipos de culinárias distintas.
 
-Do lado do restaurantes:
+A Visão de tipos de culinárias:
 
-    1. A quantidade de entregadores únicos.
-    2. A distância média dos resturantes e dos locais de entrega.
-    3. O tempo médio e o desvio padrão de entrega por cidade.
-    4. O tempo médio e o desvio padrão de entrega por cidade e tipo de pedido.
-    5. O tempo médio e o desvio padrão de entrega por cidade e tipo de tráfego.
-    6. O tempo médio de entrega durantes os Festivais.
+    1. Visão geral dos melhores restaurantes dos principais tipos de culinárias.
+    2. Top restaurantes da base de dados.
+    3. Top 10 melhores tipos de culinárias.
+    4. Top tipos de culinárias com notas menores.
 
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
 
