@@ -1,12 +1,14 @@
 # 1. Problema de negócio
 
-A Fome Zero! é uma empresa de tecnologia que criou um aplicativo que conecta restaurantes, entregadores e pessoas.
+A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core business é facilitar o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibiliza informações como endereço, tipo de culinária servida, se possui reservas, se faz entregas e também uma nota de avaliação dos serviços e produtos do restaurante, dentre outras informações.
 
 Através desse aplicativo, você consegue ter uma vasta visão de, como andam o gerenciamento, as classificações, e os melhores lugares para visitar lugares gastronômicos, com um simples toque de botão.
 
 Outra vantangem é que, você pode ter uma boa ideia da cultura local e das avaliações, sem sair de casa, e/ou ir preparado para uma escolha mais acertiva de escolha.
 
 Você foi contratado como um Cientista de Dados para criar soluções de dados para entrega, mas antes de treinar algoritmos, a necessidade da empresa é ter um os principais KPIs estratégicos organizados em uma única ferramenta, para que o CEO possa consultar e conseguir tomar decisões simples, porém importantes.
+
+O CEO Guerra também foi recém contratado e precisa entender melhor o negócio para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards, a partir dessas análises, para responder as necessidades da empresa.
 
 A Fome Zero! possui um modelo de negócio chamado Marketplace, que fazer o intermédio do negócio entre três clientes principais: Cidades, Países e tipos de culinárias. Para acompanhar o crescimento desses negócios, o CEO gostaria de ver as seguintes métricas de crescimento:
 A Visão dos Países:
@@ -34,9 +36,9 @@ O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exib
 
 # 2. Premissas assumidas para a análise
 
-    1. A análise foi realizada com dados entre 11/02/2022 e 06/04/2022.
+    1. A análise foi realizada com dados fornecidos pela própria empresa, para poder alavancar ainda mais o negócio.
     2. Marketplace foi o modelo de negócio assumido.
-    3. Os 3 principais visões do negócio foram: Visão transação de pedidos, visão restaurante e visão entregadores.
+    3. Os 3 principais visões do negócio foram: Visão de Países. Visão de Cidades e Visão de Tipos de Culinárias distintas.
 
 # 3. Estratégia da solução
 
