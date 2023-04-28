@@ -14,7 +14,7 @@ from streamlit_folium import folium_static
 #st.set_page_config(page_title='Countries', page_icon='🏙️', layout='wide')
 
 # importando dataset
-df1 = pd.read_csv('dataset0/zomato.csv')
+df1 = pd.read_csv('dataset/zomato.csv')
 
 # Cópia do dataframe original
 df = df1.copy()
