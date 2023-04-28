@@ -16,7 +16,7 @@ from matplotlib import gridspec
 from folium.plugins import MarkerCluster
 
 # importando dataset
-df1 = pd.read_csv('dataset\zomato.csv')
+df1 = pd.read_csv('dataset/zomato.csv')
 
 # Cópia do dataframe original
 df = df1.copy()
