@@ -113,9 +113,9 @@ A Visão de tipos de culinárias:
 
 # 4. Top 3 Insights de dados
 
-    1. A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dia sequenciais.
-    2. As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
-    3. As maiores variações no tempo de entrega, acontecem durante o clima ensoladao.
+    1. A Maior concentração de restaurantes estão localizados na América do Norte, Europa e Ásia.
+    2. O maior Preço médio de um prato para duas pessoas pode chegar à mais de 130.000 em moeda local
+    3. Na base de dados, mesmo tendo mais de 7500 linhas, existem apenas apenas 2 restaurantes com a modalidade "Home-made"
 
 # 5. O produto final do projeto
 
